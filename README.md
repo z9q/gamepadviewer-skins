@@ -9,14 +9,14 @@
 
 ### White
 
-[![A screenshot showing a preview of the white PS5 skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps5/white/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps5/white/style.css)
+[![A screenshot showing a preview of the white PS5 skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps5/white/preview.png "Penguin Skin")]([https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps5/white/style.css])
 
 
 ## PlayStation 4
 
 ### Penguin
 
-[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps4/penguin/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps4/penguin/style.css)
+[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/z9q/gamepadviewer-skins/refs/heads/public/playstation/Ps4-orange/base.svg "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://z9q.github.io/gamepadviewer-skins/playstation/ps4-orange/style.css)
 
 
 ## GameBoy Advance
